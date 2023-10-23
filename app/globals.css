@@ -2,26 +2,37 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face { /* 애플산돌고딕 폰트 적용 */
+  font-family: "Pixeled";
+  src: url("/fonts/Pixeled.ttf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face { /* 애플산돌고딕 폰트 적용 */
+  font-family: "DungGeunMo";
+  src: url("/fonts/DungGeunMo.ttf") format("truetype");
+  font-weight: normal;
+}
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
+
+  --color-main: #d4d5df;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: content-box;
+  font-family: "DungGeunMo";
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+p{
+  color: var(--color-main);
+}
+
+button{
+  color: var(--color-main);
 }

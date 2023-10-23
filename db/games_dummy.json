@@ -1,0 +1,30 @@
+[
+  {
+    "name": "game1",
+    "stimulation": "stimulation1/stimulation2",
+    "ability": "ability1",
+    "background": "background1",
+    "genre": "genre1"
+  },
+  {
+    "name": "game2",
+    "stimulation": "stimulation3/stimulation1",
+    "ability": "ability2",
+    "background": "background3",
+    "genre": "genre1"
+  },
+  {
+    "name": "game3",
+    "stimulation": "stimulation2/stimulation3",
+    "ability": "ability1",
+    "background": "background2",
+    "genre": "genre3"
+  },
+  {
+    "name": "game4",
+    "stimulation": "stimulation1/stimulation3",
+    "ability": "ability3",
+    "background": "background2",
+    "genre": "genre2"
+  }
+]

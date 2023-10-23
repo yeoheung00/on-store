@@ -1,0 +1,30 @@
+.wrap{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  width: 1000px;
+  padding: 20px;
+  padding-bottom: 500px;
+}
+
+.item{
+  width: calc(100% / 3 - (40px / 3));
+  height: 40px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.linewrap{
+  display: flex;
+  gap: 20px;
+  max-width: 1000px;
+  width: 100%;
+  background-color: var(--color-main);
+}
+
+.line{
+flex: 1;
+  height: 4px;
+  background-color: var(--color-main);
+}

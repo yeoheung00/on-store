@@ -1,0 +1,4427 @@
+[
+  {
+    "name": "철권",
+    "stimulation": [
+      "쾌락",
+      "승부욕"
+    ],
+    "ability": [
+      "피지컬"
+    ],
+    "background": [
+      "3D"
+    ],
+    "genre": [
+      "액션"
+    ],
+    "platform": [
+      "오락실"
+    ]
+  },
+  {
+    "name": "스트리트 파이터",
+    "stimulation": [
+      "쾌락",
+      "승부욕"
+    ],
+    "ability": [
+      "피지컬"
+    ],
+    "background": [
+      "픽셀"
+    ],
+    "genre": [
+      "액션"
+    ],
+    "platform": [
+      "오락실"
+    ]
+  },
+  {
+    "name": "겟엠프드",
+    "stimulation": [
+      "쾌락",
+      "승부욕"
+    ],
+    "ability": [
+      "피지컬"
+    ],
+    "background": [
+      "3D"
+    ],
+    "genre": [
+      "액션"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "드래곤 플라이트",
+    "stimulation": [
+      "승부욕"
+    ],
+    "ability": [
+      "피하기"
+    ],
+    "background": [
+      "하늘",
+      "2D"
+    ],
+    "genre": [
+      "슈팅",
+      "러닝"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "쿠키런",
+    "stimulation": [
+      "승부욕"
+    ],
+    "ability": [
+      "타이밍"
+    ],
+    "background": [
+      "귀여운",
+      "2D"
+    ],
+    "genre": [
+      "러닝"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "던전 앤 파이터",
+    "stimulation": [
+      "쾌락",
+      "모험"
+    ],
+    "ability": [
+      "피지컬",
+      "애정"
+    ],
+    "background": [
+      "고전",
+      "2D"
+    ],
+    "genre": [
+      "액션",
+      "RPG"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "클로저스",
+    "stimulation": [
+      "쾌락",
+      "모험"
+    ],
+    "ability": [
+      "피지컬"
+    ],
+    "background": [
+      "사이버네틱",
+      "3D"
+    ],
+    "genre": [
+      "액션",
+      "RPG"
+    ],
+    "platform": [
+      "PC온라인",
+      "모바일"
+    ]
+  },
+  {
+    "name": "메탈기어 솔리드 V",
+    "stimulation": [
+      "스릴",
+      "모험",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "광야",
+      "3D"
+    ],
+    "genre": [
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "디스아너스",
+    "stimulation": [
+      "스릴",
+      "모험",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "유럽",
+      "3D "
+    ],
+    "genre": [
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "스나이퍼 앨리트 시리즈",
+    "stimulation": [
+      "스릴",
+      "모험",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "유럽",
+      "3D "
+    ],
+    "genre": [
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "스플린터 셀 시리즈",
+    "stimulation": [
+      "스릴",
+      "모험",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "현대",
+      "3D "
+    ],
+    "genre": [
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "씨프",
+    "stimulation": [
+      "스릴",
+      "모험",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "유럽",
+      "3D "
+    ],
+    "genre": [
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "히트맨",
+    "stimulation": [
+      "스릴",
+      "모험",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "유럽",
+      "3D "
+    ],
+    "genre": [
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "캐슬 울펜슈타인",
+    "stimulation": [
+      "스릴",
+      "모험",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "유럽",
+      "3D "
+    ],
+    "genre": [
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "에일리언 아이솔레이션",
+    "stimulation": [
+      "스릴",
+      "모험",
+      "쾌락",
+      "공포"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "우주",
+      "3D",
+      "미래"
+    ],
+    "genre": [
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "GTA",
+    "stimulation": [
+      "스릴",
+      "쾌락",
+      "자유",
+      "모험"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "현대",
+      "3D "
+    ],
+    "genre": [
+      "어드벤처"
+    ],
+    "platform": [
+      "액션"
+    ]
+  },
+  {
+    "name": "갓 오브 워",
+    "stimulation": [
+      "스릴",
+      "쾌락",
+      "자유",
+      "모험"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "자연",
+      "3D"
+    ],
+    "genre": [
+      "어드벤처"
+    ],
+    "platform": [
+      "액션"
+    ]
+  },
+  {
+    "name": "바이오쇼크",
+    "stimulation": [
+      "스릴",
+      "쾌락",
+      "자유",
+      "모험"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "유럽",
+      "3D "
+    ],
+    "genre": [
+      "어드벤처"
+    ],
+    "platform": [
+      "액션"
+    ]
+  },
+  {
+    "name": "바이오하자드",
+    "stimulation": [
+      "스릴",
+      "쾌락",
+      "자유",
+      "모험"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "현대",
+      "3D "
+    ],
+    "genre": [
+      "액션"
+    ],
+    "platform": [
+      "스토리"
+    ]
+  },
+  {
+    "name": "별의 커비 시리즈",
+    "stimulation": [
+      "힐링",
+      "모험"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "귀여운",
+      "2D",
+      "3D"
+    ],
+    "genre": [
+      "어드벤처"
+    ],
+    "platform": [
+      "스토리"
+    ]
+  },
+  {
+    "name": "슈퍼 마리오 시리즈",
+    "stimulation": [
+      "모험"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "귀여운",
+      "2D",
+      "3D"
+    ],
+    "genre": [
+      "어드벤처"
+    ],
+    "platform": [
+      "스토리"
+    ]
+  },
+  {
+    "name": "사일런트 힐",
+    "stimulation": [
+      "스릴",
+      "공포"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "건물",
+      "3D",
+      "암흑"
+    ],
+    "genre": [
+      "어드벤처"
+    ],
+    "platform": [
+      "스토리"
+    ]
+  },
+  {
+    "name": "어쌔신 크리드 시리즈",
+    "stimulation": [
+      "모험"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "과거",
+      "자연",
+      "유럽",
+      "건물",
+      "3D"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "젤다의 전설",
+    "stimulation": [
+      "모험",
+      "자유",
+      "힐링"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "자연",
+      "3D"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "닌텐도"
+    ]
+  },
+  {
+    "name": "툼레이더",
+    "stimulation": [
+      "스릴",
+      "모험",
+      "쾌락",
+      "액션"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "자연",
+      "과거",
+      "3D"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "페르시안 왕자",
+    "stimulation": [
+      "쾌락",
+      "모험"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "궁전",
+      "픽셀",
+      "3D"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "메탈슬러그",
+    "stimulation": [
+      "쾌락",
+      "모험"
+    ],
+    "ability": [
+      "피지컬"
+    ],
+    "background": [
+      "전쟁",
+      "픽셀"
+    ],
+    "genre": [
+      "액션",
+      "스토리",
+      "슈팅"
+    ],
+    "platform": [
+      "오락실"
+    ]
+  },
+  {
+    "name": "록맨",
+    "stimulation": [
+      "쾌락",
+      "모험"
+    ],
+    "ability": [
+      "피지컬"
+    ],
+    "background": [
+      "미래",
+      "픽셀"
+    ],
+    "genre": [
+      "액션",
+      "스토리",
+      "슈팅"
+    ],
+    "platform": [
+      "오락실"
+    ]
+  },
+  {
+    "name": "프로젝트 좀보이드",
+    "stimulation": [
+      "스릴",
+      "쾌락",
+      "성취"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "현대",
+      "2.5D"
+    ],
+    "genre": [
+      "액션",
+      "슈팅"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "디스이즈 워 오브 마인",
+    "stimulation": [
+      "스릴",
+      "쾌락",
+      "성취"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "현대",
+      "3D"
+    ],
+    "genre": [
+      "액션",
+      "슈팅"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "배틀그라운드",
+    "stimulation": [
+      "스릴",
+      "쾌락",
+      "성취"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "현대",
+      "3D",
+      "전쟁"
+    ],
+    "genre": [
+      "액션",
+      "FPS"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "카운터 스트라이크",
+    "stimulation": [
+      "스릴",
+      "쾌락"
+    ],
+    "ability": [
+      "피지컬"
+    ],
+    "background": [
+      "현대",
+      "3D",
+      "전쟁"
+    ],
+    "genre": [
+      "액션",
+      "FPS"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "배틀필드",
+    "stimulation": [
+      "스릴",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "현대",
+      "3D",
+      "전쟁"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "콜 오브 듀티",
+    "stimulation": [
+      "스릴",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "현대",
+      "3D",
+      "전쟁"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "기어스 오브 워 시리즈",
+    "stimulation": [
+      "스릴",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "현대",
+      "3D",
+      "자연"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "둠 시리즈",
+    "stimulation": [
+      "스릴",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "미래",
+      "3D",
+      "자연"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "퀘이크 시리즈",
+    "stimulation": [
+      "스릴",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "미래",
+      "3D",
+      "자연"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "오버워치",
+    "stimulation": [
+      "쾌락",
+      "승부욕",
+      "단합"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "현대",
+      "3D"
+    ],
+    "genre": [
+      "액션",
+      "슈팅",
+      "팀"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "크라이시스 시리즈",
+    "stimulation": [
+      "스릴",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "미래",
+      "3D",
+      "자연"
+    ],
+    "genre": [
+      "액션",
+      "슈팅"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "팀 포트리스2",
+    "stimulation": [
+      "쾌락",
+      "승부욕",
+      "단합"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "현대",
+      "3D"
+    ],
+    "genre": [
+      "액션",
+      "슈팅",
+      "팀"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "헤일로 시리즈",
+    "stimulation": [
+      "스릴",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "미래",
+      "3D",
+      "우주"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "하프라이프",
+    "stimulation": [
+      "스릴",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "미래",
+      "3D"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "VR"
+    ]
+  },
+  {
+    "name": "버츄어캅",
+    "stimulation": [
+      "스릴",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "현대",
+      "픽셀"
+    ],
+    "genre": [
+      "액션",
+      "슈팅"
+    ],
+    "platform": [
+      "오락실"
+    ]
+  },
+  {
+    "name": "오리사냥",
+    "stimulation": [
+      "킬링타임",
+      "승부욕"
+    ],
+    "ability": [
+      "타이밍"
+    ],
+    "background": [
+      "픽셀",
+      "자연"
+    ],
+    "genre": [
+      "슈팅"
+    ],
+    "platform": [
+      "오락실"
+    ]
+  },
+  {
+    "name": "언더테일",
+    "stimulation": [
+      "스릴",
+      "모험",
+      "공포"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "픽셀",
+      "건물"
+    ],
+    "genre": [
+      "퍼즐",
+      "액션",
+      "슈팅"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "다크소울",
+    "stimulation": [
+      "쾌락",
+      "모험"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "언데드",
+      "3D"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "위쳐",
+    "stimulation": [
+      "쾌락",
+      "모험",
+      "자유"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "과거",
+      "자연",
+      "3D"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "엘더스크롤",
+    "stimulation": [
+      "쾌락",
+      "모험",
+      "자유"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "과거",
+      "자연",
+      "3D"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "폴아웃",
+    "stimulation": [
+      "쾌락",
+      "모험",
+      "스릴"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "과거",
+      "자연",
+      "3D",
+      "언데드"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "파랜드 택틱스 시리즈",
+    "stimulation": [
+      "모험",
+      "자유",
+      "힐링"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "과거",
+      "자연",
+      "귀여운",
+      "2.5D",
+      "픽셀"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리",
+      "시뮬"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "마비노기 영웅전",
+    "stimulation": [
+      "스릴",
+      "쾌락",
+      "모험"
+    ],
+    "ability": [
+      "전략",
+      "피지컬",
+      "애정"
+    ],
+    "background": [
+      "과거",
+      "자연",
+      "언데드",
+      "3D"
+    ],
+    "genre": [
+      "RPG",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "디아블로",
+    "stimulation": [
+      "쾌락",
+      "모험"
+    ],
+    "ability": [
+      "전략",
+      "애정"
+    ],
+    "background": [
+      "과거",
+      "자연",
+      "언데드",
+      "2.5D"
+    ],
+    "genre": [
+      "RPG",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "메이플스토리",
+    "stimulation": [
+      "쾌락",
+      "힐링",
+      "모험",
+      "자유"
+    ],
+    "ability": [
+      "애정",
+      "피하기"
+    ],
+    "background": [
+      "2D"
+    ],
+    "genre": [
+      "RPG",
+      "스토리"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "월드 오브 워크래프트",
+    "stimulation": [
+      "쾌락",
+      "모험",
+      "자유"
+    ],
+    "ability": [
+      "애정",
+      "피지컬"
+    ],
+    "background": [
+      "3D"
+    ],
+    "genre": [
+      "RPG",
+      "스토리"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "TOS",
+    "stimulation": [
+      "쾌락",
+      "모험",
+      "자유"
+    ],
+    "ability": [
+      "애정",
+      "피지컬"
+    ],
+    "background": [
+      "3D"
+    ],
+    "genre": [
+      "RPG",
+      "스토리"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "테라",
+    "stimulation": [
+      "쾌락",
+      "모험",
+      "자유"
+    ],
+    "ability": [
+      "애정",
+      "피지컬"
+    ],
+    "background": [
+      "3D"
+    ],
+    "genre": [
+      "RPG",
+      "스토리"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "검은 사막",
+    "stimulation": [
+      "쾌락",
+      "모험",
+      "자유"
+    ],
+    "ability": [
+      "애정",
+      "피지컬"
+    ],
+    "background": [
+      "3D",
+      "광야",
+      "자연"
+    ],
+    "genre": [
+      "RPG",
+      "스토리"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "호라이즌 제로 던",
+    "stimulation": [
+      "쾌락",
+      "모험",
+      "자유",
+      "스릴"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "3D",
+      "광야",
+      "자연",
+      "사이버네틱"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리",
+      "슈팅"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "스타크래프트",
+    "stimulation": [
+      "승부욕",
+      "쾌락"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "2.5D"
+    ],
+    "genre": [
+      "RTS"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "스타크래프트",
+    "stimulation": [
+      "승부욕",
+      "쾌락"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "2.5D"
+    ],
+    "genre": [
+      "팀게임"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "도타",
+    "stimulation": [
+      "승부욕",
+      "쾌락"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "2.5D"
+    ],
+    "genre": [
+      "팀게임"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "사이퍼즈",
+    "stimulation": [
+      "승부욕",
+      "쾌락"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "3D",
+      "현대"
+    ],
+    "genre": [
+      "팀게임"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "심시티",
+    "stimulation": [
+      "자유",
+      "힐링"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "3D"
+    ],
+    "genre": [
+      "시뮬레이션",
+      "건설"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "롤러코스터 타이쿤 ",
+    "stimulation": [
+      "자유",
+      "힐링"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "3D"
+    ],
+    "genre": [
+      "시뮬레이션",
+      "건설"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "심즈",
+    "stimulation": [
+      "자유",
+      "힐링"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "3D"
+    ],
+    "genre": [
+      "시뮬레이션",
+      "인생"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "동물의 숲",
+    "stimulation": [
+      "자유",
+      "힐링"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "3D",
+      "귀여운"
+    ],
+    "genre": [
+      "시뮬레이션",
+      "인생"
+    ],
+    "platform": [
+      "닌텐도"
+    ]
+  },
+  {
+    "name": "포르자 호라이즌5",
+    "stimulation": [
+      "쾌락",
+      "승부욕"
+    ],
+    "ability": [
+      "운전"
+    ],
+    "background": [
+      "3D",
+      "자연",
+      "현대"
+    ],
+    "genre": [
+      "레이싱",
+      "스포츠"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "핫휠 언리쉬드",
+    "stimulation": [
+      "쾌락",
+      "승부욕"
+    ],
+    "ability": [
+      "운전"
+    ],
+    "background": [
+      "3D",
+      "자연",
+      "미래"
+    ],
+    "genre": [
+      "레이싱",
+      "스포츠"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "레고 2K DRIVE",
+    "stimulation": [
+      "쾌락",
+      "승부욕"
+    ],
+    "ability": [
+      "운전"
+    ],
+    "background": [
+      "3D",
+      "귀여운"
+    ],
+    "genre": [
+      "레이싱",
+      "스포츠"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "더트랠리 2.0",
+    "stimulation": [
+      "쾌락",
+      "승부욕"
+    ],
+    "ability": [
+      "운전"
+    ],
+    "background": [
+      "3D",
+      "자연",
+      "현대"
+    ],
+    "genre": [
+      "레이싱",
+      "스포츠"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "더 크루2",
+    "stimulation": [
+      "쾌락",
+      "승부욕"
+    ],
+    "ability": [
+      "운전"
+    ],
+    "background": [
+      "3D",
+      "자연",
+      "현대"
+    ],
+    "genre": [
+      "레이싱",
+      "스포츠"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "라이더스 리퍼블릭",
+    "stimulation": [
+      "쾌락",
+      "승부욕"
+    ],
+    "ability": [
+      "운전"
+    ],
+    "background": [
+      "3D",
+      "자연",
+      "현대"
+    ],
+    "genre": [
+      "레이싱",
+      "스포츠"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "유로트럭2",
+    "stimulation": [
+      "쾌락",
+      "승부욕"
+    ],
+    "ability": [
+      "운전"
+    ],
+    "background": [
+      "3D",
+      "1인칭",
+      "현대"
+    ],
+    "genre": [
+      "레이싱",
+      "스포츠",
+      "생존"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "WRC10",
+    "stimulation": [
+      "쾌락",
+      "승부욕"
+    ],
+    "ability": [
+      "운전"
+    ],
+    "background": [
+      "3D",
+      "1인칭",
+      "현대"
+    ],
+    "genre": [
+      "레이싱",
+      "스포츠"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "마구마구",
+    "stimulation": [
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "3D",
+      "귀여운"
+    ],
+    "genre": [
+      "스포츠"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "피파",
+    "stimulation": [
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "3D"
+    ],
+    "genre": [
+      "스포츠"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "프리스타일",
+    "stimulation": [
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "3D"
+    ],
+    "genre": [
+      "스포츠"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "MVP베이스볼",
+    "stimulation": [
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "3D"
+    ],
+    "genre": [
+      "스포츠"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "카트라이더",
+    "stimulation": [
+      "쾌락",
+      "승부욕"
+    ],
+    "ability": [
+      "운전"
+    ],
+    "background": [
+      "3D",
+      "귀여운"
+    ],
+    "genre": [
+      "레이싱",
+      "스포츠"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "테일즈런너",
+    "stimulation": [
+      "쾌락",
+      "승부욕"
+    ],
+    "ability": [
+      "타이밍"
+    ],
+    "background": [
+      "3D",
+      "귀여운"
+    ],
+    "genre": [
+      "레이싱"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "The Looker",
+    "stimulation": [
+      "두뇌"
+    ],
+    "ability": [
+      "브레인"
+    ],
+    "background": [
+      "3D"
+    ],
+    "genre": [
+      "퍼즐"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "슈퍼리미널",
+    "stimulation": [
+      "힐링",
+      "두뇌"
+    ],
+    "ability": [
+      "브레인"
+    ],
+    "background": [
+      "3D"
+    ],
+    "genre": [
+      "퍼즐"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "고르고아",
+    "stimulation": [
+      "두뇌"
+    ],
+    "ability": [
+      "브레인"
+    ],
+    "background": [
+      "2D",
+      "그림체"
+    ],
+    "genre": [
+      "퍼즐"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "포탈 2",
+    "stimulation": [
+      "두뇌",
+      "쾌락"
+    ],
+    "ability": [
+      "브레인",
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "3D",
+      "미래",
+      "로봇"
+    ],
+    "genre": [
+      "퍼즐",
+      "액션",
+      "모험"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "헬테이커",
+    "stimulation": [
+      "두뇌"
+    ],
+    "ability": [
+      "브레인"
+    ],
+    "background": [
+      "2D",
+      "그림체",
+      "귀여운"
+    ],
+    "genre": [
+      "퍼즐",
+      "어드벤처"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "바바 이즈 유",
+    "stimulation": [
+      "두뇌"
+    ],
+    "ability": [
+      "브레인"
+    ],
+    "background": [
+      "2D",
+      "그림체"
+    ],
+    "genre": [
+      "퍼즐"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "더 위트니스",
+    "stimulation": [
+      "두뇌"
+    ],
+    "ability": [
+      "브레인"
+    ],
+    "background": [
+      "3D",
+      "귀여운"
+    ],
+    "genre": [
+      "퍼즐",
+      "어드벤처"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "Braid",
+    "stimulation": [
+      "두뇌",
+      "쾌락",
+      "모험"
+    ],
+    "ability": [
+      "브레인",
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "2D",
+      "귀여운"
+    ],
+    "genre": [
+      "퍼즐",
+      "어드벤처"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "FEZ",
+    "stimulation": [
+      "두뇌",
+      "쾌락",
+      "모험"
+    ],
+    "ability": [
+      "브레인",
+      "전략"
+    ],
+    "background": [
+      "2.5D",
+      "귀여운"
+    ],
+    "genre": [
+      "퍼즐",
+      "어드벤처"
+    ],
+    "platform": [
+      "닌텐도"
+    ]
+  },
+  {
+    "name": "Filament",
+    "stimulation": [
+      "두뇌",
+      "모험"
+    ],
+    "ability": [
+      "브레인"
+    ],
+    "background": [
+      "3D",
+      "귀여운"
+    ],
+    "genre": [
+      "퍼즐",
+      "어드벤처"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": " ibb & obb",
+    "stimulation": [
+      "두뇌",
+      "모험"
+    ],
+    "ability": [
+      "브레인"
+    ],
+    "background": [
+      "3D",
+      "귀여운"
+    ],
+    "genre": [
+      "퍼즐",
+      "어드벤처"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "INSIDE",
+    "stimulation": [
+      "두뇌",
+      "감동",
+      "모험"
+    ],
+    "ability": [
+      "브레인"
+    ],
+    "background": [
+      "3D",
+      "귀여운",
+      "암흑"
+    ],
+    "genre": [
+      "퍼즐",
+      "어드벤처",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "LIMBO",
+    "stimulation": [
+      "두뇌",
+      "감동",
+      "모험"
+    ],
+    "ability": [
+      "브레인"
+    ],
+    "background": [
+      "3D",
+      "귀여운",
+      "암흑"
+    ],
+    "genre": [
+      "퍼즐",
+      "어드벤처",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "Rusty Lake",
+    "stimulation": [
+      "두뇌",
+      "감동",
+      "모험"
+    ],
+    "ability": [
+      "브레인"
+    ],
+    "background": [
+      "2D"
+    ],
+    "genre": [
+      "퍼즐",
+      "어드벤처",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "애니팡",
+    "stimulation": [
+      "두뇌",
+      "킬링타임",
+      "승부욕"
+    ],
+    "ability": [
+      "브레인"
+    ],
+    "background": [
+      "2D"
+    ],
+    "genre": [
+      "퍼즐"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "테트리스",
+    "stimulation": [
+      "두뇌",
+      "킬링타임",
+      "승부욕"
+    ],
+    "ability": [
+      "브레인"
+    ],
+    "background": [
+      "2D"
+    ],
+    "genre": [
+      "퍼즐"
+    ],
+    "platform": [
+      "오락실"
+    ]
+  },
+  {
+    "name": "레지던트 이블4",
+    "stimulation": [
+      "스릴",
+      "모험",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "언데드",
+      "3D"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "다크사이더스2",
+    "stimulation": [
+      "스릴",
+      "모험",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "언데드",
+      "3D"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "우리에 대한 나의 기억",
+    "stimulation": [
+      "두뇌",
+      "힐링",
+      "감동"
+    ],
+    "ability": [
+      "브레인"
+    ],
+    "background": [
+      "2.5D",
+      "귀여운",
+      "암흑"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "꿀벌 섬",
+    "stimulation": [
+      "두뇌",
+      "힐링"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "3D",
+      "귀여운"
+    ],
+    "genre": [
+      "디펜스"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "쓰론폴",
+    "stimulation": [
+      "두뇌"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "3D",
+      "귀여운"
+    ],
+    "genre": [
+      "디펜스"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "리프트브레이커",
+    "stimulation": [
+      "두뇌"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "3D"
+    ],
+    "genre": [
+      "디펜스"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "러쉬 로얄",
+    "stimulation": [
+      "두뇌"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "2D",
+      "귀여운"
+    ],
+    "genre": [
+      "디펜스"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "픙선타워디펜스",
+    "stimulation": [
+      "두뇌"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "2D"
+    ],
+    "genre": [
+      "디펜스"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "식물 vs 좀비",
+    "stimulation": [
+      "두뇌"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "2D",
+      "귀여운"
+    ],
+    "genre": [
+      "디펜스"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "데이아빌리언즈",
+    "stimulation": [
+      "두뇌"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "2.5D",
+      "언데드"
+    ],
+    "genre": [
+      "디펜스"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "킴텀 투 크라운",
+    "stimulation": [
+      "두뇌",
+      "힐링"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "픽셀",
+      " 귀여운"
+    ],
+    "genre": [
+      "디펜스",
+      "어드벤처"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "세븐나이츠 키우기",
+    "stimulation": [
+      "쾌락"
+    ],
+    "ability": [
+      "애정"
+    ],
+    "background": [
+      "2.5D",
+      "귀여운"
+    ],
+    "genre": [
+      "RPG",
+      "방치형"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "원신",
+    "stimulation": [
+      "힐링",
+      "쾌락",
+      "자유"
+    ],
+    "ability": [
+      "애정",
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "3D",
+      "귀여운",
+      "자연"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "픽셀히어로",
+    "stimulation": [
+      "쾌락"
+    ],
+    "ability": [
+      "애정"
+    ],
+    "background": [
+      "2.5D",
+      "귀여운"
+    ],
+    "genre": [
+      "RPG",
+      "턴제"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "브롤스타즈",
+    "stimulation": [
+      "쾌락",
+      "승부욕"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "3D",
+      "귀여운"
+    ],
+    "genre": [
+      "슈팅",
+      "팀게임"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "붕괴:스타레일",
+    "stimulation": [
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "3D",
+      "미래",
+      "로봇"
+    ],
+    "genre": [
+      "RPG",
+      "어드벤처",
+      "스토리"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "TFT",
+    "stimulation": [
+      "두뇌",
+      "쾌락"
+    ],
+    "ability": [
+      "브레인"
+    ],
+    "background": [
+      "2.5D"
+    ],
+    "genre": [
+      "카드"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "미니게임천국",
+    "stimulation": [
+      "승부욕",
+      "킬링타임"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "2D",
+      "귀여운"
+    ],
+    "genre": [
+      "퍼즐"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "클래시 로얄",
+    "stimulation": [
+      "두뇌",
+      "승부욕"
+    ],
+    "ability": [
+      "전략",
+      "두뇌"
+    ],
+    "background": [
+      "2.5D",
+      "귀여운"
+    ],
+    "genre": [
+      "카드"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "캔디크러쉬사가",
+    "stimulation": [
+      "승부욕",
+      "킬링타임"
+    ],
+    "ability": [
+      "브레인"
+    ],
+    "background": [
+      "2D"
+    ],
+    "genre": [
+      "퍼즐"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "2048",
+    "stimulation": [
+      "승부욕",
+      "킬링타임"
+    ],
+    "ability": [
+      "브레인"
+    ],
+    "background": [
+      "2D"
+    ],
+    "genre": [
+      "퍼즐"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "GOOSE GOOSE DUCK",
+    "stimulation": [
+      "두뇌",
+      "함께"
+    ],
+    "ability": [
+      "브레인"
+    ],
+    "background": [
+      "2D",
+      "귀여운"
+    ],
+    "genre": [
+      "생존",
+      "함께"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "어몽어스",
+    "stimulation": [
+      "두뇌",
+      "함께"
+    ],
+    "ability": [
+      "브레인"
+    ],
+    "background": [
+      "2D",
+      "귀여운"
+    ],
+    "genre": [
+      "생존",
+      "함께"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "마피아",
+    "stimulation": [
+      "두뇌",
+      "함께"
+    ],
+    "ability": [
+      "브레인"
+    ],
+    "background": [
+      "2D",
+      "귀여운"
+    ],
+    "genre": [
+      "생존",
+      "함께"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "아레스:라이즈 오브 가디언즈",
+    "stimulation": [
+      "쾌락",
+      "모험"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "3D",
+      "미래"
+    ],
+    "genre": [
+      "RPG",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "Fall Guys",
+    "stimulation": [
+      "두뇌",
+      "함께"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "3D",
+      "귀여운"
+    ],
+    "genre": [
+      "생존",
+      "함께"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "Crazy Arcade",
+    "stimulation": [
+      "두뇌",
+      "함께"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "2D",
+      "귀여운"
+    ],
+    "genre": [
+      "생존",
+      "함께"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "스노우 브라더스2",
+    "stimulation": [
+      "모험"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "픽셀",
+      "귀여운"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "오락실"
+    ]
+  },
+  {
+    "name": "메탈슬러그",
+    "stimulation": [
+      "쾌락",
+      "모험"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "픽셀",
+      "전쟁",
+      "로봇"
+    ],
+    "genre": [
+      "어드벤처",
+      "슈팅",
+      "스토리",
+      "엑션"
+    ],
+    "platform": [
+      "오락실"
+    ]
+  },
+  {
+    "name": "버블버블",
+    "stimulation": [
+      "모험"
+    ],
+    "ability": [
+      "피지컬"
+    ],
+    "background": [
+      "픽셀",
+      "귀여운"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "오락실"
+    ]
+  },
+  {
+    "name": "스트리터 파이터",
+    "stimulation": [
+      "쾌락",
+      "모험"
+    ],
+    "ability": [
+      "피지컬"
+    ],
+    "background": [
+      "픽셀",
+      "현대"
+    ],
+    "genre": [
+      "어드벤처",
+      "액션",
+      "스토리"
+    ],
+    "platform": [
+      "오락실"
+    ]
+  },
+  {
+    "name": "겔라그",
+    "stimulation": [
+      "승부욕",
+      "킬링타임"
+    ],
+    "ability": [
+      "피하기"
+    ],
+    "background": [
+      "픽셀",
+      "우주"
+    ],
+    "genre": [
+      "슈팅",
+      "러닝"
+    ],
+    "platform": [
+      "오락실"
+    ]
+  },
+  {
+    "name": "슈퍼마리오",
+    "stimulation": [
+      "모험"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "픽셀",
+      "귀여운"
+    ],
+    "genre": [
+      "어드벤처"
+    ],
+    "platform": [
+      "오락실"
+    ]
+  },
+  {
+    "name": "1945",
+    "stimulation": [
+      "승부욕",
+      "킬링타임"
+    ],
+    "ability": [
+      "피하기"
+    ],
+    "background": [
+      "픽셀",
+      "하늘",
+      "전쟁"
+    ],
+    "genre": [
+      "슈팅",
+      "러닝"
+    ],
+    "platform": [
+      "오락실"
+    ]
+  },
+  {
+    "name": "배틀시티",
+    "stimulation": [
+      "쾌락"
+    ],
+    "ability": [
+      "피하기",
+      "전략"
+    ],
+    "background": [
+      "픽셀",
+      "전쟁"
+    ],
+    "genre": [
+      "슈팅"
+    ],
+    "platform": [
+      "오락실"
+    ]
+  },
+  {
+    "name": "위 워 히어 포에버",
+    "stimulation": [
+      "두뇌",
+      "함께"
+    ],
+    "ability": [
+      "추리",
+      "브레인"
+    ],
+    "background": [
+      "3D",
+      "귀여운"
+    ],
+    "genre": [
+      "퍼즐",
+      "함께",
+      "어드벤처"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "역전재판",
+    "stimulation": [
+      "두뇌"
+    ],
+    "ability": [
+      "추리"
+    ],
+    "background": [
+      "2D"
+    ],
+    "genre": [
+      "퍼즐",
+      "스토리"
+    ],
+    "platform": [
+      "닌텐도"
+    ]
+  },
+  {
+    "name": "파스모포비아",
+    "stimulation": [
+      "두뇌",
+      "스릴",
+      "공포"
+    ],
+    "ability": [
+      "추리"
+    ],
+    "background": [
+      "3D",
+      "암흑"
+    ],
+    "genre": [
+      "퍼즐",
+      "함께"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "더 패스트 위딘",
+    "stimulation": [
+      "두뇌",
+      "공포"
+    ],
+    "ability": [
+      "추리"
+    ],
+    "background": [
+      "2D",
+      "암흑"
+    ],
+    "genre": [
+      "퍼즐",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "단간론파",
+    "stimulation": [
+      "두뇌"
+    ],
+    "ability": [
+      "추리"
+    ],
+    "background": [
+      "2D"
+    ],
+    "genre": [
+      "퍼즐",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "A Space for the Unbound",
+    "stimulation": [
+      "두뇌",
+      "감동",
+      "모험"
+    ],
+    "ability": [
+      "추리"
+    ],
+    "background": [
+      "픽셀"
+    ],
+    "genre": [
+      "퍼즐",
+      "어드벤처",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "지오메트리대쉬",
+    "stimulation": [
+      "쾌락",
+      "킬링타임"
+    ],
+    "ability": [
+      "타이밍"
+    ],
+    "background": [
+      "2D"
+    ],
+    "genre": [
+      "리듬",
+      "러닝"
+    ],
+    "platform": [
+      "모바일"
+    ]
+  },
+  {
+    "name": "하이파이 러시",
+    "stimulation": [
+      "쾌락",
+      "모험"
+    ],
+    "ability": [
+      "타이밍",
+      "피지컬"
+    ],
+    "background": [
+      "3D",
+      "그림체"
+    ],
+    "genre": [
+      "액션",
+      "어드벤처",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "피스톨 휩",
+    "stimulation": [
+      "쾌락",
+      "스릴"
+    ],
+    "ability": [
+      "타이밍",
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "3D",
+      "로봇"
+    ],
+    "genre": [
+      "슈팅",
+      "어드벤처",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "A Dance of Fire and Ice",
+    "stimulation": [
+      "쾌락",
+      "킬링타임"
+    ],
+    "ability": [
+      "타이밍"
+    ],
+    "background": [
+      "2D"
+    ],
+    "genre": [
+      "리듬",
+      "퍼즐"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "Cytus II",
+    "stimulation": [
+      "쾌락",
+      "승부욕"
+    ],
+    "ability": [
+      "타이밍"
+    ],
+    "background": [
+      "2D"
+    ],
+    "genre": [
+      "리듬"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "r2beat",
+    "stimulation": [
+      "쾌락",
+      "승부욕"
+    ],
+    "ability": [
+      "타이밍"
+    ],
+    "background": [
+      "2.5D"
+    ],
+    "genre": [
+      "리듬",
+      "레이싱",
+      "스포츠"
+    ],
+    "platform": [
+      "PC온라인"
+    ]
+  },
+  {
+    "name": "Metal: Hellsinger",
+    "stimulation": [
+      "쾌락",
+      "모험",
+      "공포",
+      "스릴"
+    ],
+    "ability": [
+      "타이밍",
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "3D",
+      "언데드"
+    ],
+    "genre": [
+      "슈팅",
+      "어드벤처",
+      "스토리",
+      "리듬"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "Muse Dash",
+    "stimulation": [
+      "쾌락",
+      "킬링타임"
+    ],
+    "ability": [
+      "타이밍"
+    ],
+    "background": [
+      "2D",
+      "귀여운"
+    ],
+    "genre": [
+      "리듬",
+      "러닝"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "더 포레스트",
+    "stimulation": [
+      "스릴",
+      "공포"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "3D",
+      "언데드",
+      "자연",
+      "현대",
+      "암흑"
+    ],
+    "genre": [
+      "생존",
+      "액션",
+      "슈팅",
+      "어드벤처"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "아웃라스트",
+    "stimulation": [
+      "스릴",
+      "공포"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "3D",
+      "언데드",
+      "건물",
+      "현대",
+      "암흑"
+    ],
+    "genre": [
+      "생존",
+      "액션",
+      "어드벤처"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "고트 시뮬레이터",
+    "stimulation": [
+      "쾌락",
+      "모험",
+      "병맛"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "3D",
+      "귀여운",
+      "자연",
+      "현대"
+    ],
+    "genre": [
+      "생존",
+      "액션",
+      "슈팅",
+      "어드벤처"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "60세컨즈",
+    "stimulation": [
+      "쾌락",
+      "킬링타임",
+      "두뇌"
+    ],
+    "ability": [
+      "추리"
+    ],
+    "background": [
+      "2.5D"
+    ],
+    "genre": [
+      "생존"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "전염병 주식회사",
+    "stimulation": [
+      "두뇌"
+    ],
+    "ability": [
+      "추리"
+    ],
+    "background": [
+      "2D"
+    ],
+    "genre": [
+      "생존"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "레플리카",
+    "stimulation": [
+      "두뇌"
+    ],
+    "ability": [
+      "추리"
+    ],
+    "background": [
+      "3D"
+    ],
+    "genre": [
+      "퍼즐",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "돈 스타브 투게더",
+    "stimulation": [
+      "두뇌",
+      "스릴",
+      "공포"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "2.5D",
+      "귀여운",
+      "언데드",
+      "암흑"
+    ],
+    "genre": [
+      "생존",
+      "액션",
+      "어드벤처"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "다키스트 던전",
+    "stimulation": [
+      "두뇌"
+    ],
+    "ability": [
+      "전략",
+      "추리"
+    ],
+    "background": [
+      "2.5D",
+      "귀여운",
+      "언데드"
+    ],
+    "genre": [
+      "턴제",
+      "스토리",
+      "어드벤처"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "데드 셀",
+    "stimulation": [
+      "두뇌",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "픽셀",
+      "지하"
+    ],
+    "genre": [
+      "생존",
+      "액션",
+      "어드벤처"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "할로우 나이트",
+    "stimulation": [
+      "두뇌",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "2D",
+      "지하",
+      "암흑",
+      "귀여운"
+    ],
+    "genre": [
+      "생존",
+      "액션",
+      "어드벤처"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "슈퍼 핫",
+    "stimulation": [
+      "두뇌",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "3D",
+      "건물",
+      "4차원"
+    ],
+    "genre": [
+      "슈팅",
+      "액션",
+      "어드벤처"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "슬레이 더 스파이어",
+    "stimulation": [
+      "두뇌",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "두뇌"
+    ],
+    "background": [
+      "2D"
+    ],
+    "genre": [
+      "카드",
+      "액션",
+      "어드벤처"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "바인딩 오브 아이작",
+    "stimulation": [
+      "두뇌",
+      "스릴",
+      "공포",
+      "쾌락"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "픽셀",
+      "지하",
+      "암흑",
+      "귀여운",
+      "암흑"
+    ],
+    "genre": [
+      "스토리",
+      "어드벤처",
+      "추리",
+      "슈팅"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "투더문",
+    "stimulation": [
+      "두뇌",
+      "힐링",
+      "감동"
+    ],
+    "ability": [
+      "두뇌"
+    ],
+    "background": [
+      "픽셀"
+    ],
+    "genre": [
+      "어드벤처",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "테라리아",
+    "stimulation": [
+      "두뇌",
+      "힐링"
+    ],
+    "ability": [
+      "전략",
+      "두뇌"
+    ],
+    "background": [
+      "픽셀",
+      "귀여운",
+      "자연"
+    ],
+    "genre": [
+      "시뮬레이션",
+      "인생"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "언더테일",
+    "stimulation": [
+      "두뇌",
+      "감동"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "픽셀",
+      "귀여운",
+      "암흑"
+    ],
+    "genre": [
+      "어드벤처",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "스타듀 밸리",
+    "stimulation": [
+      "두뇌",
+      "힐링"
+    ],
+    "ability": [
+      "전략",
+      "두뇌"
+    ],
+    "background": [
+      "픽셀",
+      "귀여운",
+      "자연"
+    ],
+    "genre": [
+      "시뮬레이션",
+      "인생"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "포켓몬 고",
+    "stimulation": [
+      "힐링",
+      "모험"
+    ],
+    "ability": [
+      "전략",
+      "애정"
+    ],
+    "background": [
+      "3D",
+      "귀여운",
+      "증강현실"
+    ],
+    "genre": [
+      "액션",
+      "어드벤처"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "탕탕 특공대",
+    "stimulation": [
+      "킬링타임",
+      "승부욕",
+      "쾌락",
+      "병맛"
+    ],
+    "ability": [
+      "전략",
+      "피지컬",
+      "애정"
+    ],
+    "background": [
+      "2D",
+      "귀여운"
+    ],
+    "genre": [
+      "셍존",
+      "어드벤처",
+      "슈팅",
+      "카드"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "냥코 대전쟁",
+    "stimulation": [
+      "킬링타임",
+      "승부욕",
+      "쾌락",
+      "병맛"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "2D",
+      "귀여운",
+      "그림체"
+    ],
+    "genre": [
+      "셍존",
+      "어드벤처",
+      "시뮬레이션",
+      "카드"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "장기",
+    "stimulation": [
+      "두뇌",
+      "승부욕",
+      "킬링타임"
+    ],
+    "ability": [
+      "두뇌"
+    ],
+    "background": [
+      "2D"
+    ],
+    "genre": [
+      "퍼즐",
+      "함께"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "오목",
+    "stimulation": [
+      "두뇌",
+      "승부욕",
+      "킬링타임"
+    ],
+    "ability": [
+      "두뇌"
+    ],
+    "background": [
+      "2D"
+    ],
+    "genre": [
+      "퍼즐",
+      "함께"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "루미큐브",
+    "stimulation": [
+      "두뇌",
+      "승부욕",
+      "킬링타임"
+    ],
+    "ability": [
+      "두뇌"
+    ],
+    "background": [
+      "2D"
+    ],
+    "genre": [
+      "퍼즐",
+      "함께"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "우파루 오딧세이",
+    "stimulation": [
+      "힐링",
+      "자유"
+    ],
+    "ability": [
+      "전략",
+      "애정"
+    ],
+    "background": [
+      "2.5D",
+      "귀여운"
+    ],
+    "genre": [
+      "시뮬레이션",
+      "인생"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "마인크래프트",
+    "stimulation": [
+      "힐링",
+      "자유"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "2.5D",
+      "귀여운",
+      "픽셀"
+    ],
+    "genre": [
+      "시뮬레이션",
+      "인생"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "좀비고등학교",
+    "stimulation": [
+      "두뇌",
+      "스릴",
+      "공포"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "픽셀",
+      "암흑"
+    ],
+    "genre": [
+      "생존",
+      "함께"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "블루 아카이브",
+    "stimulation": [
+      "두뇌",
+      "쾌락",
+      "미소녀"
+    ],
+    "ability": [
+      "전략",
+      "두뇌",
+      "애정"
+    ],
+    "background": [
+      "3D",
+      "2D",
+      "귀여운",
+      "현대"
+    ],
+    "genre": [
+      "액션",
+      "어드벤처",
+      "카드"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "프로젝트 세카이 컬러풀 스테이지",
+    "stimulation": [
+      "킬링타임",
+      "미소녀"
+    ],
+    "ability": [
+      "타이밍"
+    ],
+    "background": [
+      "2D",
+      "귀여운"
+    ],
+    "genre": [
+      "리듬"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "아이러브커피",
+    "stimulation": [
+      "힐링",
+      "킬링타임"
+    ],
+    "ability": [
+      "전략",
+      "애정"
+    ],
+    "background": [
+      "2D",
+      "귀여운"
+    ],
+    "genre": [
+      "시뮬레이션",
+      "인생"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "포트리스사가",
+    "stimulation": [
+      "킬링타임"
+    ],
+    "ability": [
+      "전략",
+      "애정"
+    ],
+    "background": [
+      "2D",
+      "귀여운"
+    ],
+    "genre": [
+      "RPG",
+      "카드"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "로블록스",
+    "stimulation": [
+      "두뇌",
+      "승부욕",
+      "킬링타임",
+      "두뇌",
+      "승부욕",
+      "킬링타임"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "2.5D",
+      "픽셀"
+    ],
+    "genre": [
+      "시뮬레이션",
+      "액션"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "숩숩",
+    "stimulation": [
+      "두뇌",
+      "킬링타임"
+    ],
+    "ability": [
+      "두뇌"
+    ],
+    "background": [
+      "2D",
+      "그림체"
+    ],
+    "genre": [
+      "퍼즐"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "빛의 계승자 이클립스",
+    "stimulation": [
+      "킬링타임",
+      "쾌락",
+      "미소녀"
+    ],
+    "ability": [
+      "전략",
+      "애정"
+    ],
+    "background": [
+      "2.5D"
+    ],
+    "genre": [
+      "RPG",
+      "방치형",
+      "카드"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "브라운 더스트2",
+    "stimulation": [
+      "킬링타임",
+      "쾌락",
+      "미소녀",
+      "모험"
+    ],
+    "ability": [
+      "전략",
+      "애정"
+    ],
+    "background": [
+      "2.5D"
+    ],
+    "genre": [
+      "RPG",
+      "방치형",
+      "카드",
+      "어드벤처",
+      "스토리"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "소녀 에볼루션",
+    "stimulation": [
+      "킬링타임",
+      "쾌락",
+      "미소녀",
+      "모험"
+    ],
+    "ability": [
+      "전략",
+      "애정"
+    ],
+    "background": [
+      "2D"
+    ],
+    "genre": [
+      "RPG",
+      "방치형",
+      "카드"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "모두의 마블",
+    "stimulation": [
+      "킬링타임",
+      "함께",
+      "두뇌"
+    ],
+    "ability": [
+      "두뇌"
+    ],
+    "background": [
+      "2D"
+    ],
+    "genre": [
+      "퍼즐"
+    ],
+    "platform": [
+      "모바일오프라인"
+    ]
+  },
+  {
+    "name": "소닉",
+    "stimulation": [
+      "쾌락",
+      "모험"
+    ],
+    "ability": [
+      "타이밍"
+    ],
+    "background": [
+      "2D",
+      "3D",
+      "자연"
+    ],
+    "genre": [
+      "러닝",
+      "어드벤처",
+      "액션"
+    ],
+    "platform": [
+      ""
+    ]
+  },
+  {
+    "name": "화이트데이",
+    "stimulation": [
+      "스릴",
+      "공포"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "건물",
+      "3D",
+      "암흑"
+    ],
+    "genre": [
+      "어드벤처"
+    ],
+    "platform": [
+      "스토리"
+    ]
+  },
+  {
+    "name": "AMNESIA : The dark descent",
+    "stimulation": [
+      "스릴",
+      "공포"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "건물",
+      "3D",
+      "암흑",
+      "언데드"
+    ],
+    "genre": [
+      "어드벤처"
+    ],
+    "platform": [
+      "스토리"
+    ]
+  },
+  {
+    "name": "Slender : The Arrival",
+    "stimulation": [
+      "스릴",
+      "공포"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "건물",
+      "3D",
+      "암흑"
+    ],
+    "genre": [
+      "어드벤처"
+    ],
+    "platform": [
+      "스토리"
+    ]
+  },
+  {
+    "name": "SOMA",
+    "stimulation": [
+      "스릴",
+      "공포"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "건물",
+      "3D",
+      "암흑",
+      "바다"
+    ],
+    "genre": [
+      "어드벤처"
+    ],
+    "platform": [
+      "스토리"
+    ]
+  },
+  {
+    "name": "환원",
+    "stimulation": [
+      "스릴",
+      "공포"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "지하",
+      "3D",
+      "암흑"
+    ],
+    "genre": [
+      "어드벤처"
+    ],
+    "platform": [
+      "스토리"
+    ]
+  },
+  {
+    "name": "Phasmophobia",
+    "stimulation": [
+      "스릴",
+      "공포"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "지하",
+      "3D",
+      "암흑"
+    ],
+    "genre": [
+      "어드벤처"
+    ],
+    "platform": [
+      "스토리"
+    ]
+  },
+  {
+    "name": "더 하우스",
+    "stimulation": [
+      "스릴",
+      "공포"
+    ],
+    "ability": [
+      "두뇌"
+    ],
+    "background": [
+      "건물",
+      "2D",
+      "암흑"
+    ],
+    "genre": [
+      "스토리",
+      "추리"
+    ],
+    "platform": [
+      "콘솔",
+      "닌텐도"
+    ]
+  },
+  {
+    "name": "프레디의 피자가게",
+    "stimulation": [
+      "스릴",
+      "공포"
+    ],
+    "ability": [
+      "전략"
+    ],
+    "background": [
+      "건물",
+      "3D",
+      "암흑"
+    ],
+    "genre": [
+      "생존",
+      "스토리"
+    ],
+    "platform": [
+      "콘솔",
+      "닌텐도"
+    ]
+  },
+  {
+    "name": "암네시아 : 더 벙커",
+    "stimulation": [
+      "스릴",
+      "모험",
+      "쾌락",
+      "공포"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "건물",
+      "암흑",
+      "3D"
+    ],
+    "genre": [
+      "액션",
+      "스토리",
+      "슈팅",
+      "어드벤처"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "레이어스 오브 피어",
+    "stimulation": [
+      "스릴",
+      "모험",
+      "쾌락",
+      "공포"
+    ],
+    "ability": [
+      "전략",
+      "피지컬"
+    ],
+    "background": [
+      "건물",
+      "암흑",
+      "3D"
+    ],
+    "genre": [
+      "액션",
+      "스토리",
+      "슈팅",
+      "어드벤처"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "갱비스트",
+    "stimulation": [
+      "병맛",
+      "킬링타임",
+      "같이",
+      "쾌락"
+    ],
+    "ability": [
+      "피지컬"
+    ],
+    "background": [
+      "3D",
+      "귀여운"
+    ],
+    "genre": [
+      "생존",
+      "액션"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "Human fall flat",
+    "stimulation": [
+      "병맛",
+      "킬링타임",
+      "같이",
+      "쾌락"
+    ],
+    "ability": [
+      "피지컬"
+    ],
+    "background": [
+      "3D",
+      "귀여운"
+    ],
+    "genre": [
+      "팀게임"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "개드립피하기",
+    "stimulation": [
+      "병맛",
+      "킬링타임",
+      "스릴"
+    ],
+    "ability": [
+      "피지컬"
+    ],
+    "background": [
+      "2D"
+    ],
+    "genre": [
+      "생존"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "플라이 인 더 하우스",
+    "stimulation": [
+      "병맛",
+      "킬링타임",
+      "쾌락"
+    ],
+    "ability": [
+      "피지컬"
+    ],
+    "background": [
+      "3D",
+      "건물"
+    ],
+    "genre": [
+      "생존",
+      "액션"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "동물 파이트 클럽",
+    "stimulation": [
+      "병맛",
+      "킬링타임",
+      "쾌락"
+    ],
+    "ability": [
+      "애정"
+    ],
+    "background": [
+      "3D"
+    ],
+    "genre": [
+      "생존",
+      "시뮬레이션"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "핸드 시뮬레이터",
+    "stimulation": [
+      "병맛",
+      "킬링타임"
+    ],
+    "ability": [
+      "애정"
+    ],
+    "background": [
+      "3D"
+    ],
+    "genre": [
+      "시뮬레이션"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "TABS",
+    "stimulation": [
+      "병맛",
+      "킬링타임",
+      "자유",
+      "힐링"
+    ],
+    "ability": [
+      "두뇌"
+    ],
+    "background": [
+      "3D",
+      "귀여운"
+    ],
+    "genre": [
+      "시뮬레이션",
+      "생존"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  },
+  {
+    "name": "슈퍼버니맨",
+    "stimulation": [
+      "병맛",
+      "모험",
+      "같이",
+      "킬링타임"
+    ],
+    "ability": [
+      "피지컬"
+    ],
+    "background": [
+      "2.5D"
+    ],
+    "genre": [
+      "어드벤처",
+      "팀게임"
+    ],
+    "platform": [
+      "콘솔"
+    ]
+  }
+]
