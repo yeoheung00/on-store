@@ -34,7 +34,7 @@ export default function Selection({ current, stateHandler, title, list}: ParamsT
         }
       `}
       </style>
-      <button className="w-32 pb-2 text-center border-b-4 border-main text-2xl" onClick={toggle}>{current}</button>
+      <button className="w-full pb-2 text-center border-b-4 border-main text-2xl" onClick={toggle}>{current}</button>
       {listModal && portalElement
         ? createPortal(<ListModal listModalHandler={listModalHandler} stateHandler={stateHandler} title={title} list={list} />, portalElement)
         : null}

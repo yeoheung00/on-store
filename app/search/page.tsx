@@ -7,8 +7,6 @@ import styles from './page.module.css'
 import { useEffect, useMemo, useState } from "react"
 
 export default function Page() {
-
-
   const [load, setLoad] = useState(false);
   const [stimulation, setStimulation] = useState("All");
   const [background, setBackground] = useState("All");
@@ -68,6 +66,7 @@ export default function Page() {
 
   return (
     <main className="w-screen h-screen flex flex-col items-center ">
+      <div className={styles.background}/>
       <div className="flex flex-col items-center gap-10 mt-64">
         <img className="w-64 h-auto" src='/symbol.svg' alt='symbol' />
         <p className="text-center text-4xl font-Pixeled">In search of</p>
