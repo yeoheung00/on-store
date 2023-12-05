@@ -1,6 +1,7 @@
 .background
-  /*** Your CSS code ***/
-{
+
+/*** Your CSS code ***/
+  {
   width: calc(100% - 400px);
   height: calc(100% - 400px);
   top: 0;
@@ -12,11 +13,11 @@
   -moz-border-image: url(/back.png) 150 150 150 150 stretch stretch;
   -webkit-border-image: url(/back.png) 150 150 150 150 stretch stretch;
   -o-border-image: url(/back.png) 150 150 150 150 stretch stretch;
-  border-image: url(/back.png) 150 150 150 150 stretch stretch;
-  }
+  border-image: url(/back.png) 300 300 300 300 stretch stretch;
+}
 
 
-.wrap{
+.wrap {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
@@ -25,7 +26,7 @@
   padding-bottom: 500px;
 }
 
-.item{
+.item {
   width: calc(100% / 3 - (40px / 3));
   height: 40px;
   display: flex;
@@ -33,15 +34,15 @@
   gap: 8px;
 }
 
-.linewrap{
+.linewrap {
   display: flex;
   gap: 20px;
   max-width: 1000px;
   width: 100%;
 }
 
-.line{
-flex: 1;
+.line {
+  flex: 1;
   height: 4px;
   background-color: var(--color-main);
 }
