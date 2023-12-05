@@ -3,19 +3,17 @@
 import { Dispatch, SetStateAction, useEffect, useState } from "react";
 import ListModal from 'components/ListModal'
 import { createPortal } from "react-dom";
-import Image from "next/image";
 
 type ParamsType = {
-  current: string;
+  current: { [k: string]: string };
   stateHandler: (item: string) => void;
-  title: string;
-  list: string[];
+  selection: string;
 }
 
-export default function Selection({ current, stateHandler, title, list}: ParamsType) {
+export default function Selection({ current, stateHandler, selection }: ParamsType) {
   let [listModal, setListModal] = useState(false);
   let [portalElement, setPortalElement] = useState<Element | null>(null);
-
+  let list: string[] = [];
   useEffect(() => {
     setPortalElement(document.getElementById("portal"));
   }, [listModal]);
@@ -34,9 +32,9 @@ export default function Selection({ current, stateHandler, title, list}: ParamsT
         }
       `}
       </style>
-      <button className="w-full pb-2 text-center border-b-4 border-main text-2xl" onClick={toggle}>{current}</button>
+      <button className="w-full pb-2 text-center border-b-4 border-main text-2xl" onClick={toggle}>{current[selection]}</button>
       {listModal && portalElement
-        ? createPortal(<ListModal listModalHandler={listModalHandler} stateHandler={stateHandler} title={title} list={list} />, portalElement)
+        ? createPortal(<ListModal listModalHandler={listModalHandler} stateHandler={stateHandler} title={selection} current={current} />, portalElement)
         : null}
     </div>
   )
