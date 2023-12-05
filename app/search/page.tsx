@@ -72,7 +72,7 @@ export default function Page() {
   return (
     <main className="w-screen h-screen flex flex-col items-center ">
       <FullScreen className="full-screen bg-white" handle={handle}>
-        <button className='absolute top-0 left-0' onClick={handle.enter}>full</button>
+        <button className='absolute top-0 left-0 bg-red-400' onClick={handle.enter}>full</button>
         <div className={styles.background} />
         <div className="flex flex-col items-center gap-10 mt-64">
           <img className="w-64 h-auto" src='/symbol.svg' alt='symbol' />
