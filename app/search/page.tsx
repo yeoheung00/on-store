@@ -148,7 +148,7 @@ export default function Page() {
         <div className={styles.line}></div>
       </div>
 
-      <Link className="top-[80%] left-1/2 translate-x-[-50%] translate-y-[-50%] fixed font-Pixeled" href="/search">
+      <Link className="top-[80%] left-1/2 translate-x-[-50%] translate-y-[-50%] fixed font-Pixeled" href='/result'>
         <img src="/button.svg" className='w-[250px] h-auto block' />
         <h2 className='top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%] absolute font-Pixeled pb-2 text-white'>Play</h2>
       </Link>
