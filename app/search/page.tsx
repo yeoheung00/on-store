@@ -131,11 +131,29 @@ export default function Page() {
     return filter_temp;
   }, [stimulation, background, type]);
 
+  const [result, setResult] = useState<string[]>([]);
+
+  useEffect(() => {
+    var temp: string[] = [];
+    if (filtered.length > 3) {
+      for (let i = 0; i < 3; i++) {
+        const random = Math.floor(Math.random() * filtered.length);
+        if (!temp.includes(filtered[random].name)) temp.push(filtered[random].name);
+        else i--;
+      }
+    } else temp = filtered.map(item => item.name);
+    setResult(temp);
+  }, [filtered]);
+
+  useEffect(() => {
+    console.log(result.join('_'));
+  }, [result]);
+
   return (
     <main className="w-full h-screen fixed flex flex-col items-center ">
       <div className={styles.background} />
-      <div className="flex flex-col absolute top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%] w-1/2 items-center gap-10">
-        <p className="text-center font-Pixeled text-xl">Find what you want</p>
+      <div className="flex flex-col gap-28 absolute top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%] w-1/2 items-center gap-10">
+        <p className="text-center font-Pixeled text-2xl">Find what you want</p>
         <div className="w-full flex gap-[20px] flex-wrap justify-center">
           <Selection current={stimulation} stateHandler={setStimulation} title="Stimulation" list={stimulationList} />
           <Selection current={type} stateHandler={setType} title="Type" list={typeList} />
@@ -148,7 +166,12 @@ export default function Page() {
         <div className={styles.line}></div>
       </div>
 
-      <Link className="top-[80%] left-1/2 translate-x-[-50%] translate-y-[-50%] fixed font-Pixeled" href='/result'>
+      <Link className="top-[80%] left-1/2 translate-x-[-50%] translate-y-[-50%] fixed font-Pixeled" href={{
+        pathname: '/result',
+        query: {
+          result: JSON.stringify(result)
+        }
+      }}>
         <img src="/button.svg" className='w-[250px] h-auto block' />
         <h2 className='top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%] absolute font-Pixeled pb-2 text-white'>Play</h2>
       </Link>
