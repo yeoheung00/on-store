@@ -25,7 +25,7 @@ export default function ImageModal({ listModalHandler, stateHandler, title, list
         `
       }</style>
       <div className="w-screen h-screen flex justify-center items-center">
-        <div className="p-8 bg-white rounded-xl">
+        <div className="p-8 bg-white rounded-xl min-w-[200px]">
           <h1 className="text-2xl mb-8">{title}</h1>
           <div className="flex flex-col items-start gap-4 max-h-96 overflow-scroll">
             {list.map((item, idx) => (

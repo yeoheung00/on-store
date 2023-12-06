@@ -5,6 +5,7 @@ import games from 'db/games.json'
 import styles from './page.module.css'
 
 import { useEffect, useMemo, useState } from "react"
+import Link from 'next/link';
 
 export default function Page() {
   const [load, setLoad] = useState(false);
@@ -131,13 +132,11 @@ export default function Page() {
   }, [stimulation, background, type]);
 
   return (
-    <main className="w-screen h-screen flex flex-col items-center ">
+    <main className="w-full h-screen fixed flex flex-col items-center ">
       <div className={styles.background} />
-      <div className="flex flex-col items-center gap-10 mt-64">
-        <img className="w-64 h-auto" src='/symbol.svg' alt='symbol' />
-        <p className="text-center text-4xl font-Pixeled leading-[60px]">In search of<br />the Missing Stimulus</p>
-        <p className="text-center text-3xl mb-8">Find what you want</p>
-        <div className="max-w-[1000px] w-[1000px] flex gap-[20px] flex-wrap justify-center mb-48">
+      <div className="flex flex-col absolute top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%] w-1/2 items-center gap-10">
+        <p className="text-center font-Pixeled text-xl">Find what you want</p>
+        <div className="w-full flex gap-[20px] flex-wrap justify-center">
           <Selection current={stimulation} stateHandler={setStimulation} title="Stimulation" list={stimulationList} />
           <Selection current={type} stateHandler={setType} title="Type" list={typeList} />
           <Selection current={background} stateHandler={setBackground} title="Background" list={backgroundList} />
@@ -148,16 +147,11 @@ export default function Page() {
         <div className={styles.line}></div>
         <div className={styles.line}></div>
       </div>
-      <div className={styles.wrap}>
-        {filtered.map((item, idx) => (
-          <div key={idx} className={styles.item}>
-            <div className='w-3 h-3 bg-main' />
-            <div className='text-main'>
-              {item.name}
-            </div>
-          </div>
-        ))}
-      </div>
+
+      <Link className="top-[80%] left-1/2 translate-x-[-50%] translate-y-[-50%] fixed font-Pixeled" href="/search">
+        <img src="/button.svg" className='w-[250px] h-auto block' />
+        <h2 className='top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%] absolute font-Pixeled pb-2 text-white'>Play</h2>
+      </Link>
     </main>
   )
 }
