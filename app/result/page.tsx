@@ -3,6 +3,7 @@ import { useRouter } from "next/router"
 import { useSearchParams } from "next/navigation"
 import { useEffect, useState } from "react";
 import styles from './page.module.css'
+import Link from "next/link";
 
 export default function Result() {
   const [load, setLoad] = useState(false);
@@ -16,7 +17,7 @@ export default function Result() {
     console.log("error");
   }
   let select = params.get("select");
-  let sticker = Math.floor(Math.random() * 9);
+  let sticker = 1 + Math.floor(Math.random() * 9);
   let select_: string[] = [];
   if (select != null) {
     select_ = JSON.parse(select);
@@ -34,15 +35,18 @@ export default function Result() {
       <div className={styles.background} />
       {
         load ?
-          <div className="flex flex-col items-center gap-20 fixed left-1/2 top-1/2 translate-x-[-50%] translate-y-[-50%]">
-            <img className="w-[35%]" src={`/sticker/${sticker}.png`} />
-            <div className="flex gap-20">
-              {
-                games.map((item, idx) => (
-                  <div key={idx} className="text-2xl">{idx + 1 + ". " + item}</div>
-                ))
-              }
+          <div className="fixed w-full h-screen">
+            <div className="flex flex-col items-center gap-20 fixed left-1/2 top-1/2 translate-x-[-50%] translate-y-[-50%]">
+              <img className="w-[35%]" src={`/sticker/${sticker}.png`} />
+              <div className="flex gap-20">
+                {
+                  games.map((item, idx) => (
+                    <div key={idx} className="text-2xl">{idx + 1 + ". " + item}</div>
+                  ))
+                }
+              </div>
             </div>
+            <Link href="/start" className="fixed top-[80px] left-[80px] text-white bg-[--color-main] px-4 py-2 text-2xl">Home</Link>
           </div>
           :
           <div>
