@@ -9,17 +9,17 @@ import Link from 'next/link';
 
 export default function Page() {
   const [load, setLoad] = useState(false);
-  const [stimulation, setStimulation] = useState("All");
-  const [type, setType] = useState("All");
-  const [background, setBackground] = useState("All");
+  const [stimulation, setStimulation] = useState("Stimulation");
+  const [type, setType] = useState("Type");
+  const [background, setBackground] = useState("Background");
 
   const stimulationList = useMemo(() => {
     var filteredGames = games;
     var list: string[] = [];
-    if (type !== "All") {
+    if (type !== "Type") {
       filteredGames = filteredGames.filter(item => item.type.includes(type))
     }
-    if (background !== "All") {
+    if (background !== "Background") {
       filteredGames = filteredGames.filter(item => item.background.includes(background))
     }
     filteredGames.forEach(game => {
@@ -28,17 +28,16 @@ export default function Page() {
       })
     })
     list.sort();
-    list.unshift("All");
     return list;
   }, [type, background]);
 
   const typeList = useMemo(() => {
     var filteredGames = games;
     var list: string[] = [];
-    if (stimulation !== "All") {
+    if (stimulation !== "Stimulation") {
       filteredGames = filteredGames.filter(item => item.stimulation.includes(stimulation))
     }
-    if (background !== "All") {
+    if (background !== "Background") {
       filteredGames = filteredGames.filter(item => item.background.includes(background))
     }
     filteredGames.forEach(game => {
@@ -47,17 +46,16 @@ export default function Page() {
       })
     })
     list.sort();
-    list.unshift("All");
     return list;
   }, [stimulation, background]);
 
   const backgroundList = useMemo(() => {
     var filteredGames = games;
     var list: string[] = [];
-    if (stimulation !== "All") {
+    if (stimulation !== "Stimulation") {
       filteredGames = filteredGames.filter(item => item.stimulation.includes(stimulation))
     }
-    if (type !== "All") {
+    if (type !== "Type") {
       filteredGames = filteredGames.filter(item => item.type.includes(type))
     }
     filteredGames.forEach(game => {
@@ -66,7 +64,6 @@ export default function Page() {
       })
     })
     list.sort();
-    list.unshift("All");
     return list;
   }, [stimulation, type])
 
@@ -169,7 +166,8 @@ export default function Page() {
       <Link className="top-[80%] left-1/2 translate-x-[-50%] translate-y-[-50%] fixed font-Pixeled" href={{
         pathname: '/result',
         query: {
-          result: JSON.stringify(result)
+          result: JSON.stringify(result),
+          select: JSON.stringify([stimulation, type, background])
         }
       }}>
         <img src="/button.svg" className='w-[250px] h-auto block' />
